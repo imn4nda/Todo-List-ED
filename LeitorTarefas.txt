@@ -1,0 +1,10 @@
+D 01 03 2026
+T 1 0 Dormir
+D 03 03 2026
+D 04 03 2026
+T 6 1 Limpar a casa
+T 7 0 Carinho nos gatos
+D 05 03 2026
+D 10 04 2026
+D 01 09 2026
+T 5 0 Jogar Minecraft
